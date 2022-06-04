@@ -1,3 +1,5 @@
+http://45.131.41.122/composertwig/public/
+
 Лабораторная работа №6. Composer + Twig + Monolog (2 часа).
 
 Цель: получить практические навыки использования пакетного менеджера composer и пакетов twig и monolog.
