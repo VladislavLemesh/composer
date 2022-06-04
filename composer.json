@@ -1,0 +1,12 @@
+{
+    "name": "root/composertwig",
+    "require": {
+      "twig/twig": "^3.0",
+      "monolog/monolog": "^2.6"
+    },
+    "autoload": {
+      "psr-4": {
+        "": "src/"
+      }
+    }
+}
